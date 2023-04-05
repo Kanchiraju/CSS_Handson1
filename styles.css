@@ -1,0 +1,44 @@
+h1{
+    Color:red;
+}
+
+h2{
+    font-style: italic;
+    color:tomato;
+}
+.ol{
+    color: brown;
+    line-height: 40px;
+}
+
+.strike{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.background{
+    font-weight: bold;
+    background-color: yellow;
+}
+
+#fourthOl{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.ul{
+    letter-spacing: 6px;
+    color:brown;  
+}
+#ulfourth{
+    font-weight: bold;
+    background-color: yellow;
+}
+p{
+    color:#5A4530;
+}
+.link{
+    font-style:italic;
+    color:red;
+    background-color: yellow;
+    text-decoration: none;
+}
